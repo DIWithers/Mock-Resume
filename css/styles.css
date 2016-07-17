@@ -1,0 +1,50 @@
+
+body {
+	font-family: Arial;
+}
+#header {
+	height: 100px;
+	padding: 2%;
+	border-bottom: 3px solid grey;
+}
+
+#name{
+	font-family: Arial;
+	display: inline-block;
+	font-size: 30px;
+	width: 30%;
+	margin-top: 2%;
+	margin-left: 5%;
+	text-align: center;
+}
+.bright {
+	color: orange;
+}
+.bold {
+	font-weight: bold;
+}
+#contact {
+	display: inline-block;
+	width: 40%;
+	float: right;
+	margin-top: 5%;
+	text-align: center;
+}
+#quote-bar {
+	margin: 3%;
+	text-align: right;
+}
+#profile {
+	border-bottom: 3px solid grey;
+}
+#profile img {
+	width: 175px;
+	float: left;
+	height: 150px;
+
+
+
+}
+#skills-bar{
+	margin-top: 7%;
+}
